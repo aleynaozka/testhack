@@ -1,0 +1,39 @@
+[
+  {
+    "id": "problem-001",
+    "title": "CNC tezgâhında erken rulman arızası",
+    "industry_type": "company_without_rd",
+    "text": "CNC tezgâhlarımızda rulman kaynaklı titreşim artıyor ve plansız duruş oluşuyor. İvmeölçer verileriyle erken arıza tahmini ve kestirimci bakım modeli geliştirmek istiyoruz."
+  },
+  {
+    "id": "problem-002",
+    "title": "Tekstil atık suyunda renk giderimi",
+    "industry_type": "company_without_rd",
+    "text": "Tekstil boyama tesisindeki atık suda renk ve kimyasal oksijen ihtiyacı yüksek. Membran, adsorpsiyon ve deneysel optimizasyonla arıtma verimini artırmak istiyoruz."
+  },
+  {
+    "id": "problem-003",
+    "title": "Pres hattında sac geri esnemesi",
+    "industry_type": "rd_center",
+    "text": "Otomotiv pres hattında yüksek mukavemetli sac parçalarda geri esneme oluşuyor. Abaqus veya Ansys ile sonlu elemanlar simülasyonu ve deneysel doğrulama yapılacak."
+  },
+  {
+    "id": "problem-004",
+    "title": "Gıda ambalajında sızdırmazlık hatası",
+    "industry_type": "company_without_rd",
+    "text": "Paketleme hattında ambalaj sızdırmazlık hataları raf ömrünü düşürüyor. Malzeme karakterizasyonu ve deneysel proses optimizasyonu yapmak istiyoruz."
+  },
+  {
+    "id": "problem-005",
+    "title": "Üretim çizelgeleme optimizasyonu",
+    "industry_type": "rd_center",
+    "text": "Sipariş değişkenliği nedeniyle üretim planlama ve hat dengeleme zorlaşıyor. Kapasite, stok ve teslim süresini birlikte optimize eden bir çizelgeleme modeli arıyoruz."
+  },
+  {
+    "id": "problem-006",
+    "title": "Fabrika enerji tüketimi tahmini",
+    "industry_type": "entrepreneur",
+    "text": "Fabrikaların enerji tüketimini sensör verisi ve zaman serisi analiziyle tahmin eden, enerji verimliliği önerileri veren bir yazılım prototipi geliştirmek istiyoruz."
+  }
+]
+
